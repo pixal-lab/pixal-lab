@@ -1,6 +1,6 @@
 # Hi I'm Pablo Ahumada
 # 💫 About Me:
-🎓 Civil Engineering in Computer Science and Telecommunications student<br>🎮 GW2 Endgame player<br>🎹 Pianist<br>✝️ Christian <br>🦝 Red panda<br><br>Feel free to check out my projects and connect! 🚀
+🎓 Civil Engineering in Computer Science and Telecommunications<br>🎮 GW2 Endgame player<br>🎹 Pianist<br>✝️ Christian <br>🦝 Red panda<br><br>Feel free to check out my projects and connect! 🚀
 
 
 ## 🌐 Socials:
